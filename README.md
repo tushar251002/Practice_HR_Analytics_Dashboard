@@ -11,7 +11,7 @@ The dashboard provides insights into employee demographics, attrition by departm
 
 ## Dashboard Preview
 
-![HR Dashboard](Images/HR_Dashboard.png)
+![HR_Dashboard](Images/HR_Dashboard.png)
 
 ## Business Objectives
 
